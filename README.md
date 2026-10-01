@@ -18,11 +18,7 @@ This project delivers a complete forecasting pipeline:
 
 ---
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+
 
 ## 📊 Dataset Information
 
@@ -123,7 +119,11 @@ The app will open automatically in your default browser at `http://localhost:850
 
 ## 🖼️ Application Screenshots
 
-_(Placeholder: Add screenshots of Overview, Forecast, and Performance sections here)_
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 ---
 
