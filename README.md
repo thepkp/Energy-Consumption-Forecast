@@ -23,7 +23,7 @@ This project delivers a complete forecasting pipeline:
 ## 📊 Dataset Information
 
 - **Name:** Nigerian Energy & Utilities Commercial & Industrial Consumption
-- **Source:** Hugging Face — `electricsheepafrica/nigerian_energy_and_utilities_commercial_industrial_consumption`
+- **Source:** Hugging Face — `[electricsheepafrica/nigerian_energy_and_utilities_commercial_industrial_consumption](https://huggingface.co/datasets/electricsheepafrica/nigerian_energy_and_utilities_commercial_industrial_consumption)`
 - **Total Raw Records:** 220,000 observations across 2024
 - **Hourly Time Series:** 8,760 unique hourly timestamps
 - **Commercial Records:** 131,577
